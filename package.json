@@ -1,13 +1,13 @@
 {
   "name": "tailwind",
   "version": "1.0.0",
-  "description": "",
+  "description": "my tailwind css",
   "main": "index.js",
   "scripts": {
     "build": "tailwindcss -i ./src/input.css -o ./src/style.css --watch"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ben",
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.4.10"
